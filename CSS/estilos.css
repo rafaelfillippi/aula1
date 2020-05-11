@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://www.deutsche-rohstoffagentur.de/DE/Themen/GG_Fernerkundung/Bilder/proj_hyperspektral_Gamsberg_g.png;jsessionid=159AE0CD673031CCCD20947BEF2AA660.1_cid321?__blob=normal&v=2");
+     background-size: auto 100vh;
+    font-family: Times New Roman;
+     height: 100vh;
+    }
+   
+   .menu {
+     background-color: LemonChiffon;
+     }
+   
+   .menu ul {
+     display: flex;
+     Justify-content: space-around;
+     
+   }
+   
+   .menu li {
+     list-style: none; 
+   }
+   a{
+     color: DarkSlateBlue;
+     text-decoration: none;  
+     }
+   
+   a:hover {
+     text-decoration: underline;
+   }
+   
+   .site-subtitle,
+   .site-title {
+     color: Azure;
+     text-align: center;  
+   }
+   
+   .site-subtitle {
+     font-style: italic
+   }
